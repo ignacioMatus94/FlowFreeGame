@@ -1,0 +1,14 @@
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\bin\Debug\net8.0\FlowFreeGame.exe
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\bin\Debug\net8.0\FlowFreeGame.deps.json
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\bin\Debug\net8.0\FlowFreeGame.runtimeconfig.json
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\bin\Debug\net8.0\FlowFreeGame.dll
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\bin\Debug\net8.0\FlowFreeGame.pdb
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\FlowFreeGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\FlowFreeGame.AssemblyInfoInputs.cache
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\FlowFreeGame.AssemblyInfo.cs
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\FlowFreeGame.csproj.CoreCompileInputs.cache
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\FlowFreeGame.dll
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\refint\FlowFreeGame.dll
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\FlowFreeGame.pdb
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\FlowFreeGame.genruntimeconfig.cache
+c:\Users\ignis\FlowFreeGame\FlowFreeGame\obj\Debug\net8.0\ref\FlowFreeGame.dll
